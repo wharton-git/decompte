@@ -1,0 +1,26 @@
+body {
+    color: white;
+    background: black;
+    font-family: 'Century Gothic';
+    font-weight: bolder;
+    letter-spacing: 5pt;
+    font-size: 6em;
+    overflow: hidden;
+    text-align: center;
+    vertical-align: middle;
+    height: 100vh ;
+    margin-top: 35vh;
+}
+
+.container {
+    /* border: rgb(255, 255, 255) solid 6px; */
+    /* box-shadow: inset 2px 2px 3px rgb(4 216 0), 2px 2px 3px rgb(4 216 0); */
+    width: 900px;
+    margin: 0 auto;
+    padding: 40px;
+    border-radius: 10px;
+}
+
+#countdown {
+    text-shadow: 2px 2px 3px rgb(4 216 0) ;
+}
